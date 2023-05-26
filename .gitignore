@@ -1,0 +1,9 @@
+# Node Modules
+node_modules/
+
+# Build Files
+build/
+
+# Design Files Cache
+*.blend1
+.vercel
